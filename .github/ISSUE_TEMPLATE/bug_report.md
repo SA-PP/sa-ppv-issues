@@ -14,10 +14,6 @@ Before you post an issue, make sure you've read quick introduction to our bug tr
 
 Please fill in the *entire* template below. -->
 
-**SAMP or Alt:V bug**
-<!-- Write below -->
-`answer`
-
 **Current behavior**
 <!--- Tell us what happens currently -->
 
